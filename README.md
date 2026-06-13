@@ -17,7 +17,7 @@
 
 * **Lenguaje:** Java (JDK 11 o superior recomendado)
 * **Paradigma:** Programación Orientada a Objetos (POO) avanzada
-* **IDE Recomendado:** IntelliJ IDEA / Eclipse / VS Code
+* **IDE**: IntelliJ IDEA 
 
 ---
 
